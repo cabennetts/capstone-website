@@ -11,6 +11,11 @@ export default function Navbar() {
         <nav className="navbar">
             <ul>
                 <li>
+                    <Link href="/">
+                        <button>Home</button>
+                    </Link>
+                </li>
+                <li>
                     <Link href="/upload">
                         <button className="btn-red">Upload</button>
                     </Link>

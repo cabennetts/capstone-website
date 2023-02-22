@@ -4,7 +4,7 @@ export default function Results() {
         <main>
             <h2>WE INTERPRETED:</h2>
             <h3>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+                **Output goes here**
             </h3>
         </main>
     )
